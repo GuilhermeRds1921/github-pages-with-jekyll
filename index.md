@@ -1,3 +1,3 @@
-# Guilherme Rodrigues
+Guilherme Rodrigues
 
 Computer engineer studant
