@@ -1,7 +1,7 @@
 title: Eu que Criei
 email: guilhermerodrigues1921@gmail.com
 description: computer engineer studant blog, for my research
-theme: minima
+theme: jekyll-theme-minimal
 
 # social links
 github_username:  GuilhermeRdS1921 # DO NOT include the @ character, or else the build will fail!
